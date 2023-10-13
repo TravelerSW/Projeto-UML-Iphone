@@ -5,5 +5,6 @@ public class App{
        Iphone iphone = new Iphone();
 
        iphone.ligar();
+       iphone.adicionarNovaAba();
     }
 }
